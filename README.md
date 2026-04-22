@@ -11,7 +11,9 @@
 - 🚀 Future direction: **Fullstack → Machine Learning → Startup**
 
 ---
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaiDevv&theme=github-dark" />
+</p>
 🛠️ **Tech Stack**
 <h3>Backend</h3>
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,mysql,postgres,mongodb" />

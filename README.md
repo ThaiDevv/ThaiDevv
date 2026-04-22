@@ -46,7 +46,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaiDevv&theme=github-dark" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Building+real-world+projects;Future+Tech+Founder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+engineer;Building+real-world+projects;Future+Tech+Founder" />
 </p>
 📊 **GitHub Stats**
 <p align="center">

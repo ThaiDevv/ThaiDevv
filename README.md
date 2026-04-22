@@ -13,10 +13,14 @@
 ---
 
 🛠️ **Tech Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,mysql,mongodb,postgres,java,spring,docker,git" />
-</p>
+<h3>Backend</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,mysql,postgres,mongodb" />
 
+<h3>Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,js,ts" />
+
+<h3>Tools</h3>
+<img src="https://skillicons.dev/icons?i=docker,git" />
 ---
 
 📌 **What I'm doing**

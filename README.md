@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thái</h1>
-<h3 align="center">Fullstack Developer | Tech Builder | Future Founder</h3>
+<h3 align="center">Soft warealign="center">Hi 👋, I'm Thái</h1>
+<h3 align="center">software engineer | Tech Builder | Future Founder</h3>
 
 ---
 
@@ -14,7 +15,7 @@
 
 🛠️ **Tech Stack**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,mysql,mongodb,postgres,docker,git" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,mysql,mongodb,postgres,java,springboot,docker,git" />
 </p>
 
 ---

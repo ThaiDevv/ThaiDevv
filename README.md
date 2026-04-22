@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Thái</h1>
-<h3 align="center">Soft warealign="center">Hi 👋, I'm Thái</h1>
 <h3 align="center">software engineer | Tech Builder | Future Founder</h3>
 
 ---

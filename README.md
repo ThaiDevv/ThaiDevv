@@ -38,9 +38,18 @@
 ---
 
 📫 **Contact me**
-- 📧 Email: **tranvanthai20062@gmail.com**
-- 💻 GitHub: https://github.com/ThaiDevv
-
+<p align="left">
+<a href="https://www.linkedin.com/in/trần-văn-thái-089610370/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="https://github.com/ThaiDevv" target="blank">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+## 🧠 LeetCode Stats
+<p align="center">
+  <img src="https://leetcode-stats.vercel.app/api?username=TranVanThai26&theme=dark" />
+</p>
 ---
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThaiDevv&theme=github-dark" />
